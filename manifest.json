@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_appName__",
+  "version": "1.0",
+  "description": "__MSG_appDescription__",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "default_locale": "en",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}

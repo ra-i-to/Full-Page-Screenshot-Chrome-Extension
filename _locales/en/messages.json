@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "Full Page Screenshot"
+  },
+  "appDescription": {
+    "message": "This is an extension that captures and downloads a screenshot of the entire page."
+  },
+  "captureButtonLabel": {
+    "message": "Screenshot"
+  },
+  "hideFixedElementsLabel": {
+    "message": "Hide fixed contents"
+  },
+  "errorMessage": {
+    "message": "Screenshot failed"
+  }
+}

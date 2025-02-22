@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "Full Page Screenshot"
+  },
+  "appDescription": {
+    "message": "ページ全体のスクリーンショットを取得してダウンロードする拡張機能です。"
+  },
+  "captureButtonLabel": {
+    "message": "スクリーンショット"
+  },
+  "hideFixedElementsLabel": {
+    "message": "追従コンテンツ非表示"
+  },
+  "errorMessage": {
+    "message": "スクリーンショットに失敗しました。"
+  }
+}
