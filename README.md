@@ -1,4 +1,4 @@
-# Full Page Screenshot Chrome Extension
+# FullPageScreenshot-ChromeExtension
 
 表示中のページの全体スクリーンショットを撮影してダウンロードするだけのシンプルな Chrome 拡張機能です。  
 追従コンテンツの非表示も可能です。
